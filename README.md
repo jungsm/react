@@ -3,8 +3,14 @@
 >> 프론트는 Rreact를 사용하여 제작하였으며 NodeJS의 Express 를 활용하여 백엔드를 구현한 풀스택 프로젝트입니다.
 
 [![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+
+[![REACT Version][react-image]][react-url]
+
+[![NODE Version][node-image]][node-url]
+
+[![framer-motion][framer-motion-image]][framer-motion-url]
+홈페이지에 동적요소를 넣기위해 라이브러리를 사용했습니다.
+
 
 한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
@@ -66,7 +72,7 @@ npm intall framer-motion
 
 ## 정보
 
-이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
+이름 – 정선문– 이메일주소 wjdtjsans0714@naver.com
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
@@ -83,5 +89,12 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
-[react-image]:https://img.shields.io/badge/react%20-v18-blue
-[react-url]:
+
+[React-image]: https://img.shields.io/badge/react%20-v18.2.0-blue
+[react-url]:https://www.npmjs.com/package/react
+
+[node-image]: https://img.shields.io/badge/node-v16.19.0-green
+[node-url]: https://www.npmjs.com/search?q=node
+
+[framer-motion-image]: https://img.shields.io/badge/framer--motion-v10.9.1-9cf
+[framer-motion-url]: https://www.npmjs.com/package/framer-motion
